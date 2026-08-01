@@ -50,8 +50,6 @@
 ## 📚 Currently Learning
 - Deep Learning
 - Generative AI
-- LangChain
-- RAG
 
 ## 💬 Quote
 > “Without data, you're just another person with an opinion.” — W. Edwards Deming
